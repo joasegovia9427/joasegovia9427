@@ -2,6 +2,11 @@
 
 
 
+<table style="width: 100%; border-collapse: collapse; border-style: none;" border="0">
+<tbody>
+<tr>
+<td style="width: 25%;">
+  
 
 
 
@@ -505,6 +510,14 @@
     <text text-anchor="start" class="ContributionCalendar-label" dx="-10" dy="85">Fri</text>
     <text text-anchor="start" class="ContributionCalendar-label" dx="-10" dy="81" style="display: none;">Sat</text>
 </g></svg>
+
+
+  </td>
+</tr>
+</tbody>
+</table>
+
+
 
 
 
