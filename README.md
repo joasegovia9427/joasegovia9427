@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/dark%20bg.png" width="30px" data-canonical-src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/dark%20bg.png" style="max-width: 100%;"> 
+<img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/dark%20bg.png" width="100%" data-canonical-src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/dark%20bg.png" style="max-width: 100%;"> 
 
-<img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/helloWorld.png" width="30px" data-canonical-src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/helloWorld.png" style="max-width: 100%;"> 
+<img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/helloWorld.png" width="100%" data-canonical-src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/helloWorld.png" style="max-width: 100%;"> 
 
 
 <img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/hand.gif" width="30px" data-canonical-src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/hand.gif" style="max-width: 100%;"> Hola, mi nombre es Joaquin Segovia!
