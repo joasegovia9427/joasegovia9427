@@ -1,6 +1,6 @@
-<a href="#"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/helloWorld.png" width="100%" > 
+<a href="#"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/helloWorld.png" width="100%" style="cursor: none;"> 
 
-<img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/hand.gif" width="30px" ></a> Hola, mi nombre es Joaquin Segovia!
+<img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/hand.gif" width="30px" style="cursor: none;"></a> Hola, mi nombre es Joaquin Segovia!
 
 Trabajo como full stack developer, actualmente en K2B, con la tecnologia GeneXus. 
 
