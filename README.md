@@ -1,4 +1,4 @@
-<a href="#" style="cursor: none"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/helloWorld.png" width="100%" > 
+<a href="#" style="cursor: default"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/helloWorld.png" width="100%" > 
 
 <img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/hand.gif" width="30px" style="cursor: pointer;"></a> Hola, mi nombre es Joaquin Segovia!
 
