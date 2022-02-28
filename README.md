@@ -1,4 +1,4 @@
-<a href="https://uy.linkedin.com/in/joaquinsegovia" rel="nofollow"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/helloWorld.png" width="100%" style="max-width: 100%;"> 
+<a href="https://github.com/joasegovia9427"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/helloWorld.png" width="100%" style="max-width: 100%;"> 
 
 <img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/hand.gif" width="30px" style="max-width: 100%;"> Hola, mi nombre es Joaquin Segovia!
 
