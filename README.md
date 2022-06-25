@@ -1,5 +1,10 @@
 [![](https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/helloWorld.png)](#)
-
+{
+ resolve: 'gatsby-remark-images',
+ options: {
+   linkImagesToOriginal: false,
+ },
+}
 
 <a style="cursor: default;" href=#><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/helloWorld.png" width="100%" style="cursor: default;"> 
 
