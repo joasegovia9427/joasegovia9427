@@ -8,7 +8,7 @@ Vivo en Montevideo Uruguay
 
 Puedes saber mas sobre mi en
 <a href="https://uy.linkedin.com/in/joaquinsegovia"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/LinkedinIcon20h.png" alt="Linkedin" style="max-width: 100%;">
-
+<a href="https://joasegovia9427.github.io">Porfolio Web Personal</a> 
   
 
 <a href="#" style="cursor: pointer"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/hand30.gif" width="30px"></a> Hi, my name is Joaquin Segovia.
@@ -19,23 +19,8 @@ I'm based on Montevideo, Uruguay
 
 You can know more about me on
 <a href="https://uy.linkedin.com/in/joaquinsegovia"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/LinkedinIcon20h.png" alt="Linkedin" style="max-width: 100%;">
-
+<a href="https://joasegovia9427.github.io">Personal Portfolio</a> 
   
   
   
-<!-- If you are reading this... thanks to you for being curious about how I made this file...
-Stay tune for my website/portfolio joaquinsegovia.dev coming soon... thks 
-
-**joasegovia9427/joasegovia9427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
-
-Here are some ideas to get my started or complete even more this file:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- If you are reading this... thanks to you for being curious about how I made this file...-->
