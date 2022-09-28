@@ -2,7 +2,7 @@
 
 <a style="pointer-events: none; cursor: nw-resize;" href=#><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/hand30.gif" width="30px" style="pointer-events: none; cursor: nw-resize;"></a> Hola, mi nombre es Joaquin Segovia.
 
-Trabajo como full stack software developer, actualmente en K2B, con la tecnologia GeneXus. 
+Trabajo como front end software developer, actualmente en Light-It. 
 
 Vivo en Montevideo Uruguay
 
@@ -14,7 +14,7 @@ Puedes saber mas sobre mi en
 
 <a href="#" style="cursor: pointer"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/hand30.gif" width="30px"></a> Hi, my name is Joaquin Segovia.
 
-I work as a full stack software developer, currently at K2B, where I use GeneXus technology to build enterprise software.
+I work as a fron end software developer, currently at Light-It.
 
 I'm based on Montevideo, Uruguay
 
