@@ -2,7 +2,7 @@
 
 <a style="pointer-events: none; cursor: nw-resize;" href=#><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/hand30.gif" width="30px" style="pointer-events: none; cursor: nw-resize;"></a> Hola, mi nombre es Joaquin Segovia.
 
-Trabajo como Full Stack Software Developer, actualmente en Light-it. 
+Trabajo como Full Stack Software Developer, actualmente en Light-it ⚡️ 
 
 Vivo en Montevideo Uruguay
 
@@ -14,7 +14,7 @@ Puedes saber mas sobre mi en
 
 <a href="#" style="cursor: pointer"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/hand30.gif" width="30px"></a> Hi, my name is Joaquin Segovia.
 
-I work as a Full Stack Software Developer, currently at Light-it.
+I work as a Full Stack Software Developer, currently at Light-it ⚡️
 
 I'm based on Montevideo, Uruguay
 
