@@ -26,4 +26,5 @@ You can know more about me on
 <!-- If you are reading this... thanks to you for being curious about how I made this file...
 
 <a href="https://joasegovia9427.github.io"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/PortfolioIcon.png" alt="Portfolio" style="max-width: 100%;"></a>
+.
 -->
