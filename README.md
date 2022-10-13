@@ -11,7 +11,7 @@ My name is Joaquin Segovia
 <br/><br/>
 &#128640; At present, I'm on advance road to get my Software Engineer Bachelor Degree, at <a href="http://ude.edu.uy/fci-ude/licenciatura-en-informatica/" style="color: #007bb6">"Universidad de la Empresa"</a>
 
-⚙️ Experience in Software Engineering (Architecture, Design Pattern, Development Models, Versioning, Automation). Knowledge in techs like JavaScript, TypeScripts, HTML, CSS, (React, Angular), relational databases (SQL), design and prototyping (eg.: Figma), and all system development cycle.
+⚙️ Experience in Software Engineering (Architecture, Design Pattern, Development Models, Versioning, Automation). Knowledge in techs like JavaScript, TypeScripts, HTML, CSS, (React, Angular), relational databases (SQL), design and prototyping (eg.: Figma), Agile Development, and all system development cycle.
 
 🔬 I like topics and I'm an autodidact about: UI, UX, Multimedia, Graphics, Marketing, Designing, Product Building and Design Thinking.
 
