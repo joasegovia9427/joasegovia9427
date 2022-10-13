@@ -5,9 +5,10 @@ My name is Joaquin Segovia
 
 💻 I work as a software developer (front-end), currently at <a href="https://lightit.io" style="color: rgba(119, 61, 189)">Light-it ⚡️</a>, where I use web technologies to build amazing and outstanding products.
 
-I focus on building professional quality software, applying technical skills and Software Engineering's generals. Always with soft skills, too.
-
+🎯 I focus on building professional quality software, applying technical skills and Software Engineering's generals. Always with soft skills, too.
+<br/>
 &#128205; I'm based on Montevideo, Uruguay
+<br/>
 &#128640; At present, I'm on advance road to get my Software Engineer Bachelor Degree, at <a href="http://ude.edu.uy/fci-ude/licenciatura-en-informatica/" style="color: #007bb6">"Universidad de la Empresa"</a>
 
 ⚙️ Experience in Software Engineering (Architecture, Design Pattern, Development Models, Versioning, Automation). Knowledge in techs like JavaScript, TypeScripts, HTML, CSS, (React, Angular), relational databases (SQL), design and prototyping (eg.: Figma), and all system development cycle.
@@ -15,15 +16,15 @@ I focus on building professional quality software, applying technical skills and
 🔬 I like topics and I'm an autodidact about: UI, UX, Multimedia, Graphics, Marketing, Designing, Product Building and Design Thinking.
 
 🫂 Soft Skills
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀 Startership
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗺️ Leadership
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👂 Active listening
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🙌 Empathy
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏢 Collective property and project management
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;♻️ Passion for teaching
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤓 Eager for new knowledge
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;😌 Conflict appropriate management by CMI
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖖 Initiatives to hangout and integrate with the team
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀 Startership
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗺️ Leadership
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👂 Active listening
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🙌 Empathy
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏢 Collective property and project management
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;♻️ Passion for teaching
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤓 Eager for new knowledge
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;😌 Conflict appropriate management by CMI
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖖 Initiatives to hangout and integrate with the team
 
 ⏩🌐&nbsp;You can know more about me on
 <a href="https://uy.linkedin.com/in/joaquinsegovia"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/LinkedinIcon20h.png" alt="Linkedin" style="max-width: 100%;">
