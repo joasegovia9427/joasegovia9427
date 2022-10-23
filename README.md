@@ -7,10 +7,8 @@ My name is Joaquin Segovia
 
 🎯 I focus on building professional quality software, applying technical skills and Software Engineering's generals. Always with soft skills, too.
 <br/>I enjoy taking ownership about the projects I work on, not only writing code but also have an holistic and critical view of the product, final users, functionalities and the business.
-
 <br/><br/>
 &#128205; I'm based on Montevideo, Uruguay
-
 <br/><br/>
 &#128640; At present, I'm on advance road to get my Software Engineer Bachelor Degree, at <a href="http://ude.edu.uy/fci-ude/licenciatura-en-informatica/" style="color: #007bb6">"Universidad de la Empresa"</a>
 
