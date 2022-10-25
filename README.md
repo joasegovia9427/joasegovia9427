@@ -31,7 +31,7 @@ My name is Joaquin Segovia
 <a href="https://uy.linkedin.com/in/joaquinsegovia"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/LinkedinIcon20h.png" alt="Linkedin" style="max-width: 100%;">
 <a href="https://youtube.com/playlist?list=PL2dq_pIVanOA9tDSCewx7Vaz9aholVPW-"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/YoutubeIcon.png" alt="YoutubeProfile" style="max-width: 100%;"></a>
 <a href="https://joasegovia9427.github.io"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/PortfolioIcon.png" alt="Portfolio" style="max-width: 100%;"></a>
-<a href="https://www.figma.com/@joasegovia9427"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/FigmaIcon20.png" alt="Figma" style="max-width: 100%;"></a>
+<a href="https://www.figma.com/@joasegovia9427"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/FigmaIcon20h.png" alt="Figma" style="max-width: 100%;"></a>
 
 ---- o ---- o ---- o ----
 
@@ -45,7 +45,7 @@ Puedes saber mas sobre mi en
 <a href="https://uy.linkedin.com/in/joaquinsegovia"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/LinkedinIcon20h.png" alt="Linkedin" style="max-width: 100%;">
 <a href="https://youtube.com/playlist?list=PL2dq_pIVanOA9tDSCewx7Vaz9aholVPW-"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/YoutubeIcon.png" alt="YoutubeProfile" style="max-width: 100%;"></a>
 <a href="https://joasegovia9427.github.io"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/PortfolioIcon.png" alt="Portfolio" style="max-width: 100%;"></a>
-<a href="https://www.figma.com/@joasegovia9427"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/FigmaIcon20.png" alt="Figma" style="max-width: 100%;"></a>
+<a href="https://www.figma.com/@joasegovia9427"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/FigmaIcon20h.png" alt="Figma" style="max-width: 100%;"></a>
 
 <!-- If you are reading this... thanks to you for being curious about how I made this file...
 -->
