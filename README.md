@@ -10,7 +10,7 @@ My name is Joaquin Segovia
 <br/><br/>
 &#128205; I'm based on Montevideo, Uruguay
 <br/><br/>
-&#128640; At present, I'm on advance road to get my Software Engineer Bachelor Degree, at <a href="http://ude.edu.uy/fci-ude/licenciatura-en-informatica/" style="color: #007bb6">"Universidad de la Empresa"</a>
+&#128640; 🎓 Recently, I achieved my Software Engineer Bachelor's Degree, at <a href="http://ude.edu.uy/fci-ude/licenciatura-en-informatica/" style="color: #007bb6">"Universidad de la Empresa"</a>, with my Thesis project https://jasform.com
 
 ⚙️ Experience in Software Engineering (Architecture, Design Pattern, Development Models, Versioning, Automation). Knowledge in techs like JavaScript, TypeScripts, HTML, CSS, (React, Angular), relational databases (SQL), design and prototyping (eg.: Figma), Agile Development, and all system development cycle.
 
