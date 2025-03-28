@@ -54,14 +54,5 @@ Puedes saber mas sobre mi en
   <img alt="GitHub Snake Contribution Graph" src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/refs/heads/main/Images/github-snake.svg">
 </picture>
 
-
 <!-- If you are reading this... thanks to you for being curious about how I made this file...
-
-
-
-
-<img media="(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/refs/heads/main/Images/github-snake-dark.svg" width="100%" style="pointer-events: none; cursor: nw-resize;">
-
-<img media="(prefers-color-scheme: light)" src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/refs/heads/main/Images/github-snake.svg" width="100%" style="pointer-events: none; cursor: nw-resize;">
-
 -->
