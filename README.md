@@ -56,7 +56,12 @@ Puedes saber mas sobre mi en
   <img alt="github-snake" src="[https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/refs/heads/main/Images/github-snake.svg](https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/refs/heads/main/Images/github-snake.svg)" />
 </picture>
 
+<a href=#><img src="[https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/helloWorld.png](https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/refs/heads/main/Images/github-snake.svg
+)" width="100%" style="pointer-events: none; cursor: nw-resize;">
 
+
+
+<a href=#><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/refs/heads/main/Images/github-snake.svg" width="100%" style="pointer-events: none; cursor: nw-resize;">
 
 
 <!--
