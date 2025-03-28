@@ -50,13 +50,13 @@ Puedes saber mas sobre mi en
 <!-- If you are reading this... thanks to you for being curious about how I made this file...
 -->
 
-
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/lukemorales/lukemorales/output/github-snake-dark.svg](https://github.com/joasegovia9427/joasegovia9427/blob/main/Images/github-snake-dark.svg)" />
-  <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/lukemorales/lukemorales/output/github-snake.svg](https://github.com/joasegovia9427/joasegovia9427/blob/main/Images/github-snake.svg)" />
-  <img alt="github-snake" src="[https://raw.githubusercontent.com/lukemorales/lukemorales/output/github-snake.svg](https://github.com/joasegovia9427/joasegovia9427/blob/main/Images/github-snake.svg)" />
+  <source media="(prefers-color-scheme: dark)" srcset="[https://github.com/joasegovia9427/joasegovia9427/blob/main/Images/github-snake-dark.svg](https://github.com/joasegovia9427/joasegovia9427/blob/main/Images/github-snake-dark.svg)" />
+  <source media="(prefers-color-scheme: light)" srcset="[https://github.com/joasegovia9427/joasegovia9427/blob/main/Images/github-snake.svg](https://github.com/joasegovia9427/joasegovia9427/blob/main/Images/github-snake.svg)" />
+  <img alt="github-snake" src="[https://github.com/joasegovia9427/joasegovia9427/blob/main/Images/github-snake.svg](https://github.com/joasegovia9427/joasegovia9427/blob/main/Images/github-snake.svg)" />
 </picture>
+
+
 <!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lukemorales/lukemorales/output/github-snake-dark.svg" />
