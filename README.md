@@ -47,9 +47,21 @@ Puedes saber mas sobre mi en
 <a href="https://joasegovia9427.github.io"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/PortfolioIcon.png" alt="Portfolio" style="max-width: 100%;"></a>
 <a href="https://www.figma.com/@joasegovia9427"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/FigmaIcon20h.png" alt="Figma" style="max-width: 100%;"></a>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/refs/heads/main/Images/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/refs/heads/main/Images/github-snake.svg">
+  <img alt="GitHub Snake Contribution Graph" src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/refs/heads/main/Images/github-snake.svg">
+</picture>
+
+
 <!-- If you are reading this... thanks to you for being curious about how I made this file...
--->
+
+
+
 
 <img media="(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/refs/heads/main/Images/github-snake-dark.svg" width="100%" style="pointer-events: none; cursor: nw-resize;">
 
 <img media="(prefers-color-scheme: light)" src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/refs/heads/main/Images/github-snake.svg" width="100%" style="pointer-events: none; cursor: nw-resize;">
+
+-->
