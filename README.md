@@ -1,5 +1,7 @@
 <a href=#><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/helloWorld.png" width="100%" style="pointer-events: none; cursor: nw-resize;">
 
+<a href=#><img src="/Images/helloWorld.png" width="100%" style="pointer-events: none; cursor: nw-resize;">
+
 <a href="#" style="cursor: pointer"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/hand30.gif" width="30px"></a> Hello there!
 My name is Joaquin Segovia
 
@@ -46,7 +48,6 @@ Puedes saber mas sobre mi en
 <a href="https://youtube.com/playlist?list=PL2dq_pIVanOA9tDSCewx7Vaz9aholVPW-"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/YoutubeIcon.png" alt="YoutubeProfile" style="max-width: 100%;"></a>
 <a href="https://joasegovia9427.github.io"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/PortfolioIcon.png" alt="Portfolio" style="max-width: 100%;"></a>
 <a href="https://www.figma.com/@joasegovia9427"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/FigmaIcon20h.png" alt="Figma" style="max-width: 100%;"></a>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/refs/heads/main/Images/github-snake-dark.svg">
