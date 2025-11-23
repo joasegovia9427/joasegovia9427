@@ -8,13 +8,13 @@ My name is Joaquin Segovia
 Check my activity there in my job Github Profile => <a href="https://github.com/jsegovialightit" style="color: rgba(119, 61, 189)">My Light-it <img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/gitHub.png" alt="GitHubLogo" style="width: 60px"></a>
 
 🎯 I focus on building professional quality software, applying technical skills and Software Engineering's generals. Always with soft skills, too.
-<br/>I enjoy taking ownership about the projects I work on, not only writing code but also have an holistic and critical view of the product, final users, functionalities and the business.
+<br/>I enjoy taking ownership about the projects I work on, not only writing code but also have an holistic and critical view of the end-to-end product, final users, functionalities and the business.
 <br/><br/>
 &#128205; I'm based on Montevideo, Uruguay
 <br/><br/>
 &#128640; 🎓 Recently, I achieved my Software Engineer Bachelor's Degree, at <a href="http://ude.edu.uy/fci-ude/licenciatura-en-informatica/" style="color: #007bb6">"Universidad de la Empresa"</a>, with my Thesis project https://jasform.com
 
-⚙️ Experience in Software Engineering (Architecture, Design Pattern, Development Models, Versioning, Automation). Knowledge in techs like JavaScript, TypeScripts, HTML, CSS, (React, Angular), relational databases (SQL), design and prototyping (eg.: Figma), Agile Development, and all system development cycle.
+⚙️ Experience in Software Engineering (Architecture, Performance, Design Pattern, Usability, A11y, Development Models, Versioning, Automation). Knowledge in techs like JavaScript, TypeScripts, HTML, CSS, (React, Angular), relational databases (SQL), design and prototyping (eg.: Figma), Agile Development, and all system development cycle.
 
 🔬 I like topics and I'm an autodidact about: UI, UX, Multimedia, Graphics, Marketing, Designing, Product Building and Design Thinking.
 
