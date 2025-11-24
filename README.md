@@ -1,11 +1,11 @@
 <a href=#><img src="https://cdn.jsdelivr.net/gh/joasegovia9427/joasegovia9427@main/Images/helloWorld.png" width="100%" style="pointer-events: none; cursor: nw-resize;">
 
-<a href="#" style="cursor: pointer"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/hand30.gif" width="30px"></a> Hello there!
+<a href="#" style="cursor: pointer"><img src="https://cdn.jsdelivr.net/gh/joasegovia9427/joasegovia9427@main/Images/hand30.gif" width="30px"></a> Hello there!
 My name is Joaquin Segovia
 
-💻 I work as a software developer (full stack, front-end oriented), currently at <a href="https://lightit.io" style="color: rgba(119, 61, 189)">Light-it ⚡️</a>, where I use web technologies to build amazing and outstanding products. 
+💻 I work as a software developer (full stack, front-end oriented), currently at <a href="https://lightit.io" style="color: rgba(119, 61, 189)">Light-it ⚡️</a>, where I use web technologies to build amazing and outstanding products.
 
-Check my activity there in my job Github Profile => <a href="https://github.com/jsegovialightit" style="color: rgba(119, 61, 189)">My Light-it <img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/gitHub.png" alt="GitHubLogo" style="width: 60px"></a>
+Check my activity there in my job Github Profile => <a href="https://github.com/jsegovialightit" style="color: rgba(119, 61, 189)">My Light-it <img src="https://cdn.jsdelivr.net/gh/joasegovia9427/joasegovia9427@main/Images/gitHub.png" alt="GitHubLogo" style="width: 60px"></a>
 
 🎯 I focus on building professional quality software, applying technical skills and Software Engineering's generals. Always with soft skills, too.
 <br/>I enjoy taking ownership about the projects I work on, not only writing code but also have an holistic and critical view of the end-to-end product, final users, functionalities and the business.
@@ -30,29 +30,29 @@ Check my activity there in my job Github Profile => <a href="https://github.com/
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖖 Initiatives to hangout and integrate with the team
 
 ⏩🌐&nbsp;You can know more about me on
-<a href="https://uy.linkedin.com/in/joaquinsegovia"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/LinkedinIcon20h.png" alt="Linkedin" style="max-width: 100%;">
-<a href="https://youtube.com/playlist?list=PL2dq_pIVanOA9tDSCewx7Vaz9aholVPW-"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/YoutubeIcon.png" alt="YoutubeProfile" style="max-width: 100%;"></a>
-<a href="https://joasegovia9427.github.io"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/PortfolioIcon.png" alt="Portfolio" style="max-width: 100%;"></a>
-<a href="https://www.figma.com/@joasegovia9427"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/FigmaIcon20h.png" alt="Figma" style="max-width: 100%;"></a>
+<a href="https://uy.linkedin.com/in/joaquinsegovia"><img src="https://cdn.jsdelivr.net/gh/joasegovia9427/joasegovia9427@main/Images/LinkedinIcon20h.png" alt="Linkedin" style="max-width: 100%;">
+<a href="https://youtube.com/playlist?list=PL2dq_pIVanOA9tDSCewx7Vaz9aholVPW-"><img src="https://cdn.jsdelivr.net/gh/joasegovia9427/joasegovia9427@main/Images/YoutubeIcon.png" alt="YoutubeProfile" style="max-width: 100%;"></a>
+<a href="https://joasegovia9427.github.io"><img src="https://cdn.jsdelivr.net/gh/joasegovia9427/joasegovia9427@main/Images/PortfolioIcon.png" alt="Portfolio" style="max-width: 100%;"></a>
+<a href="https://www.figma.com/@joasegovia9427"><img src="https://cdn.jsdelivr.net/gh/joasegovia9427/joasegovia9427@main/Images/FigmaIcon20h.png" alt="Figma" style="max-width: 100%;"></a>
 
 ---- o ---- o ---- o ----
 
-<a style="pointer-events: none; cursor: nw-resize;" href=#><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/hand30.gif" width="30px" style="pointer-events: none; cursor: nw-resize;"></a> Hola, mi nombre es Joaquin Segovia.
+<a style="pointer-events: none; cursor: nw-resize;" href=#><img src="https://cdn.jsdelivr.net/gh/joasegovia9427/joasegovia9427@main/Images/hand30.gif" width="30px" style="pointer-events: none; cursor: nw-resize;"></a> Hola, mi nombre es Joaquin Segovia.
 
 Trabajo como Software Developer, actualmente en <a href="https://lightit.io">Light-it ⚡️</a>
 
 Vivo en Montevideo Uruguay
 
 Puedes saber mas sobre mi en
-<a href="https://uy.linkedin.com/in/joaquinsegovia"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/LinkedinIcon20h.png" alt="Linkedin" style="max-width: 100%;">
-<a href="https://youtube.com/playlist?list=PL2dq_pIVanOA9tDSCewx7Vaz9aholVPW-"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/YoutubeIcon.png" alt="YoutubeProfile" style="max-width: 100%;"></a>
-<a href="https://joasegovia9427.github.io"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/PortfolioIcon.png" alt="Portfolio" style="max-width: 100%;"></a>
-<a href="https://www.figma.com/@joasegovia9427"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/FigmaIcon20h.png" alt="Figma" style="max-width: 100%;"></a>
+<a href="https://uy.linkedin.com/in/joaquinsegovia"><img src="https://cdn.jsdelivr.net/gh/joasegovia9427/joasegovia9427@main/Images/LinkedinIcon20h.png" alt="Linkedin" style="max-width: 100%;">
+<a href="https://youtube.com/playlist?list=PL2dq_pIVanOA9tDSCewx7Vaz9aholVPW-"><img src="https://cdn.jsdelivr.net/gh/joasegovia9427/joasegovia9427@main/Images/YoutubeIcon.png" alt="YoutubeProfile" style="max-width: 100%;"></a>
+<a href="https://joasegovia9427.github.io"><img src="https://cdn.jsdelivr.net/gh/joasegovia9427/joasegovia9427@main/Images/PortfolioIcon.png" alt="Portfolio" style="max-width: 100%;"></a>
+<a href="https://www.figma.com/@joasegovia9427"><img src="https://cdn.jsdelivr.net/gh/joasegovia9427/joasegovia9427@main/Images/FigmaIcon20h.png" alt="Figma" style="max-width: 100%;"></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/refs/heads/main/Images/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/refs/heads/main/Images/github-snake.svg">
-  <img alt="GitHub Snake Contribution Graph" src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/refs/heads/main/Images/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/joasegovia9427/joasegovia9427@main/Images/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/joasegovia9427/joasegovia9427@main/Images/github-snake.svg">
+  <img alt="GitHub Snake Contribution Graph" src="https://cdn.jsdelivr.net/gh/joasegovia9427/joasegovia9427@main/Images/github-snake.svg">
 </picture>
 
 <!-- If you are reading this... thanks to you for being curious about how I made this file...
