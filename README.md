@@ -3,7 +3,7 @@
 <a href="#" style="cursor: pointer"><img src="https://cdn.jsdelivr.net/gh/joasegovia9427/joasegovia9427@main/Images/hand30.gif" width="30px"></a> Hello there!
 My name is Joaquin Segovia
 
-💻 I work as a software developer (full stack, front-end oriented), currently at <a href="https://lightit.io" style="color: rgba(119, 61, 189)">Light-it ⚡️</a>, where I use web technologies to build amazing and outstanding products.
+💻 I work as a software developer (full-stack, front-end oriented). I use web technologies to build amazing and outstanding products.
 
 Check my activity there in my job Github Profile => <a href="https://github.com/jsegovialightit" style="color: rgba(119, 61, 189)">My Light-it <img src="https://cdn.jsdelivr.net/gh/joasegovia9427/joasegovia9427@main/Images/gitHub.png" alt="GitHubLogo" style="width: 60px"></a>
 
@@ -39,7 +39,7 @@ Check my activity there in my job Github Profile => <a href="https://github.com/
 
 <a style="pointer-events: none; cursor: nw-resize;" href=#><img src="https://cdn.jsdelivr.net/gh/joasegovia9427/joasegovia9427@main/Images/hand30.gif" width="30px" style="pointer-events: none; cursor: nw-resize;"></a> Hola, mi nombre es Joaquin Segovia.
 
-Trabajo como Software Developer, actualmente en <a href="https://lightit.io">Light-it ⚡️</a>
+Trabajo como Software Developer.
 
 Vivo en Montevideo Uruguay
 
