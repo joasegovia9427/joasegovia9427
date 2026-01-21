@@ -12,7 +12,7 @@ Check my activity there in my job Github Profile => <a href="https://github.com/
 <br/><br/>
 &#128205; I'm based on Montevideo, Uruguay
 <br/><br/>
-&#128640; 🎓 Recently, I achieved my Software Engineer Bachelor's Degree, at <a href="http://ude.edu.uy/fci-ude/licenciatura-en-informatica/" style="color: #007bb6">"Universidad de la Empresa"</a>, with my Thesis project https://jasform.com
+&#128640; 🎓 Recently, I achieved my Software Engineer Bachelor's Degree, at <a href="http://ude.edu.uy/fci-ude/licenciatura-en-informatica/" style="color: #007bb6">"Universidad de la Empresa"</a>, with my Thesis project [https://joasegovia9427.github.io/jasform-web/](https://joasegovia9427.github.io/jasform-web/)
 
 ⚙️ Experience in Software Engineering (Architecture, Performance, Design Pattern, Usability, A11y, Development Models, Versioning, Automation). Knowledge in techs like JavaScript, TypeScripts, HTML, CSS, (React, Angular), relational databases (SQL), design and prototyping (eg.: Figma), Agile Development, and all system development cycle.
 
