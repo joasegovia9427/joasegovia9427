@@ -3,16 +3,16 @@
 <a href="#" style="cursor: pointer"><img src="https://cdn.jsdelivr.net/gh/joasegovia9427/joasegovia9427@main/Images/hand30.gif" width="30px"></a> Hello there!
 My name is Joaquin Segovia
 
-💻 I work as a software developer (full-stack, front-end oriented). I use web technologies to build amazing and outstanding products.
+💻 I work as a software developer (front-end oriented) currently at <a href="[https://github.com/jsegovialightit](https://www.sweatworks.com/)" style="color: rgba(179, 210, 53)">SweatWorks</a>. I use web technologies to build amazing and outstanding products.
 
-Check my activity there in my job Github Profile => <a href="https://github.com/jsegovialightit" style="color: rgba(119, 61, 189)">My Light-it <img src="https://cdn.jsdelivr.net/gh/joasegovia9427/joasegovia9427@main/Images/gitHub.png" alt="GitHubLogo" style="width: 60px"></a>
+Check my previous activity in my previous job Github Profile => <a href="https://github.com/jsegovialightit" style="color: rgba(119, 61, 189)">My Light-it <img src="https://cdn.jsdelivr.net/gh/joasegovia9427/joasegovia9427@main/Images/gitHub.png" alt="GitHubLogo" style="width: 60px"></a>
 
 🎯 I focus on building professional quality software, applying technical skills and Software Engineering's generals. Always with soft skills, too.
 <br/>I enjoy taking ownership about the projects I work on, not only writing code but also have an holistic and critical view of the end-to-end product, final users, functionalities and the business.
 <br/><br/>
 &#128205; I'm based on Montevideo, Uruguay
 <br/><br/>
-&#128640; 🎓 Recently, I achieved my Software Engineer Bachelor's Degree, at <a href="http://ude.edu.uy/fci-ude/licenciatura-en-informatica/" style="color: #007bb6">"Universidad de la Empresa"</a>, with my Thesis project [https://joasegovia9427.github.io/jasform-web/](https://joasegovia9427.github.io/jasform-web/)
+&#128640; 🎓 I achieved my Software Engineer Bachelor's Degree, at <a href="http://ude.edu.uy/fci-ude/licenciatura-en-informatica/" style="color: #007bb6">"Universidad de la Empresa"</a>, with my Thesis project [https://joasegovia9427.github.io/jasform-web/](https://joasegovia9427.github.io/jasform-web/)
 
 ⚙️ Experience in Software Engineering (Architecture, Performance, Design Pattern, Usability, A11y, Development Models, Versioning, Automation). Knowledge in techs like JavaScript, TypeScripts, HTML, CSS, (React, Angular), relational databases (SQL), design and prototyping (eg.: Figma), Agile Development, and all system development cycle.
 
