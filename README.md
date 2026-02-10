@@ -3,7 +3,7 @@
 <a href="#" style="cursor: pointer"><img src="https://cdn.jsdelivr.net/gh/joasegovia9427/joasegovia9427@main/Images/hand30.gif" width="30px"></a> Hello there!
 My name is Joaquin Segovia
 
-💻 I work as a software developer (front-end oriented) currently at <a href="https://www.sweatworks.com/" style="color: rgba(179, 210, 53)">SweatWorks</a>. I use web technologies to build amazing and outstanding products. Github Profile => <a href="[https://github.com/jsegovialightit](https://github.com/jsegovia-sweatworks)" style="color: rgba(119, 61, 189)">My SweatWorks <img src="https://cdn.jsdelivr.net/gh/joasegovia9427/joasegovia9427@main/Images/gitHub.png" alt="GitHubLogo" style="width: 60px"></a>
+💻 I work as a software developer (front-end oriented) currently at <a href="https://www.sweatworks.com/" style="color: rgba(179, 210, 53)">SweatWorks</a>. I use web technologies to build amazing and outstanding products. Github Profile => <a href="https://github.com/jsegovia-sweatworks" style="color: rgba(119, 61, 189)">My SweatWorks <img src="https://cdn.jsdelivr.net/gh/joasegovia9427/joasegovia9427@main/Images/gitHub.png" alt="GitHubLogo" style="width: 60px"></a>
 
 Check my previous activity in my previous job Github Profile => <a href="https://github.com/jsegovialightit" style="color: rgba(119, 61, 189)">My Light-it <img src="https://cdn.jsdelivr.net/gh/joasegovia9427/joasegovia9427@main/Images/gitHub.png" alt="GitHubLogo" style="width: 60px"></a>
 
